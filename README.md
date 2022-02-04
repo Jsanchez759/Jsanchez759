@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+**Energy engineer and data scientist focused on impact the world and energy market through the data and artificial intelligence**
 
 - 🔭 I’m currently working on Neu - Energy: intelligent energy marketers, who seek to impact energy consumption through data, artificial intelligence and the intelligent disaggregation of energy consumption
 - 🌱 I’m currently learning everything related to data science, advanced python topics and how to impact the world of energy through data and artificial intelligence
