@@ -1,4 +1,4 @@
-*Energy engineer and data scientist focused on impact the world and energy market through the data and artificial intelligence*
+**Energy engineer and data scientist focused on impact the world and energy market through the data and artificial intelligence**
 ===========================================
 
 Data Science - Python developer
